@@ -1,0 +1,6 @@
+# Add dependencies here
+fastapi
+uvicorn
+python-dotenv
+openai
+pydantic
